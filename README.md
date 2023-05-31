@@ -1,3 +1,8 @@
+Frontend project of a calendar that interacts with the NASA API, where they upload a daily photograph of space. The calendar days are loaded with a thumbnail of the photograph, and when clicked, it displays the photograph in high resolution with detailed information.
+
+The project is developed with Next.js 13 and built using CSS grid and other libraries.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -5,7 +10,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
+npm install
+
+npm run dev/npm run start:dev
 # or
 yarn dev
 # or
@@ -17,6 +24,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## Video
+
+
+https://github.com/mbarquienero/Frontend/assets/132913468/92990c63-2315-4cc3-a74d-e69feaac424a
+
+
 
 ## Learn More
 
